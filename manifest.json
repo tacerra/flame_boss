@@ -1,0 +1,11 @@
+{
+    "domain": "flame_boss",
+    "name": "Flame Boss",
+    "config_flow": true,
+    "codeowners": [],
+    "dependencies": [],
+    "documentation": "",
+    "iot_class": "cloud_polling",
+    "requirements": [],
+    "version": "1.0.0"
+  }

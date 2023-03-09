@@ -1,0 +1,14 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Authentication",
+                "description": "Enter your FlameBoss credentials.",
+                "data": {
+                    "username": "Username",
+                    "password": "Password"
+                }
+            }
+        }
+    }
+}
